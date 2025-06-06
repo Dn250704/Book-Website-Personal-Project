@@ -1,5 +1,5 @@
 # Book-Website-Personal-Project
-This is a passionate website that I created to sell book
+This is a passionate website that I created to sell the book
 
 Book-Website-Personal-Project/
 ├── public/
